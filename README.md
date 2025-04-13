@@ -25,8 +25,8 @@ Each model is trained on real-world datasets and optimized for accurate results:
 
 ## Video :
 
-
+https://github.com/user-attachments/assets/7b49bda1-187e-4bd7-a107-8a49923dc422
 
 ## Datasets : To download the datasets go here : 
 
-  
+https://drive.google.com/drive/folders/1EFFjI5tD4H_Ro6eko_Io0J32XYhocUxs  
